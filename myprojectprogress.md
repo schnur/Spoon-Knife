@@ -1,0 +1,1 @@
+I am interested in projects like the dog data base but am open to others. If I find a project having to do with IMDB or other film related topics I may find it more interesting. I think a standard repo is the best to use because if an error accures one can always use a previous version and someone won't have to check every push.
